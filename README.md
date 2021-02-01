@@ -14,6 +14,4 @@ Here are some ideas to get you started:
 -->
 
 [![ZekeTian's GitHub stats](https://github-readme-stats.zeketian.vercel.app/api?username=zeketian&count_private=true&show_icons=true)](https://github.com/ZekeTian)
-[![Top Langs](https://github-readme-stats.zeketian.vercel.app/api/top-langs/?username=zeketian&layout=compact)](https://github.com/ZekeTian)
-<!--
-
+[![Top Langs](https://github-readme-stats.zeketian.vercel.app/api/top-langs/?username=zeketian)](https://github.com/ZekeTian)
