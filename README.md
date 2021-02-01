@@ -5,7 +5,7 @@
 ### 💖 感兴趣的
 
 - Big Data
-- Parallel and Distributed Systems          
+- Parallel and Distributed Systems &emsp; &emsp;
 - Data Science
 </td>
 
@@ -14,7 +14,7 @@
 ### 🌱 学习中的
 
 - Algorithm              
-- Hadoop/Spark/MPI &emsp;
+- Hadoop/Spark/MPI &emsp; &emsp; &emsp; &emsp; &emsp;
 </td>
 </tr>
 </table>
