@@ -1,7 +1,4 @@
-### Hi there 👋
 
-[![ZekeTian's GitHub stats](https://github-readme-stats.zeketian.vercel.app/api?username=zeketian&count_private=true&show_icons=true)](https://github.com/ZekeTian)
-<!--
 **ZekeTian/zeketian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![ZekeTian's GitHub stats](https://github-readme-stats.zeketian.vercel.app/api?username=zeketian&count_private=true&show_icons=true)](https://github.com/ZekeTian)
+[![Top Langs](https://github-readme-stats.zeketian.vercel.app/api/top-langs/?username=zeketian&layout=compact)](https://github.com/ZekeTian)
+<!--
+
