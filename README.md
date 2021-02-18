@@ -4,8 +4,9 @@
   
 ### 💖 I’m interested in
 
-- Big Data
 - Parallel and Distributed Systems &emsp; &emsp;
+  <br> (especially graph processing system)
+- Big Data
 - Data Science
 </td>
 
@@ -13,8 +14,8 @@
   
 ### 🌱 I’m currently learning
 
-- Algorithm              
 - Hadoop/Spark/MPI &emsp; &emsp; &emsp; &emsp; &emsp;
+- Algorithm              
 </td>
 </tr>
 </table>
