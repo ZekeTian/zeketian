@@ -2,7 +2,7 @@
 <tr valign="top">
 <td>
   
-### 💖 感兴趣的
+### 💖 I’m interested in
 
 - Big Data
 - Parallel and Distributed Systems &emsp; &emsp;
@@ -11,7 +11,7 @@
 
 <td>
   
-### 🌱 学习中的
+### 🌱 I’m currently learning
 
 - Algorithm              
 - Hadoop/Spark/MPI &emsp; &emsp; &emsp; &emsp; &emsp;
