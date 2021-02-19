@@ -15,7 +15,7 @@
 ### 🌱 I’m currently learning
 
 - Hadoop/Spark/Flink/MPI &emsp; &emsp; &emsp; &emsp; &emsp;
-- Algorithm              
+- Algorithm (continuously)             
 </td>
 </tr>
 </table>
