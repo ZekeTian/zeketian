@@ -5,7 +5,7 @@
 ### 💖 I’m interested in
 
 - Parallel and Distributed Systems &emsp; &emsp;
-  <br> (especially graph processing system)
+  <br> (especially database system)
 - Big Data
 - Data Science
 </td>
